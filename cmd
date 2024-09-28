@@ -1,3 +1,3 @@
-async def gg():
+async def gg(channel):
   await channel.send('ss')
-gg()
+gg(channel)
