@@ -1,2 +1,1 @@
-import os
-os.system("start cmd")
+await channel.send('ss')
